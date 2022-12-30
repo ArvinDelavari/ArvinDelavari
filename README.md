@@ -1,9 +1,9 @@
 - @ArvinDelavari
 - Electrical Engineering student at Iran University of Science and Technology
 - Electronics and Embedded Systems Developer
-- CPU Design researcher : RISC-V ISA 
-- MCU Programming ARM Cortex -M (STM32) | Arduino | AVR
-- PCB Designing (Altium Designer)
+- CPU Design and Computer Architecture researcher : RISC-V ISA 
+- MCU/MPU Programming ARM Cortex -M (STM32) | Arduino | AVR
+- PCB Designing and Embedded Hardware (Altium Designer)
 - Web Development : HTML/CSS/JS + Server Side Scripting (Node.JS)
 - Embedded Linux
 - C/C++/MATLAB/Python
