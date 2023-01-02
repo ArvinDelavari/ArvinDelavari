@@ -1,6 +1,6 @@
 # Arvin Delavari
 ## Electrical Engineering-Electronics BSc Student at IUST
-##Allameh Helli Highschool of Tehran graduated
+## Allameh Helli Highschool of Tehran graduated
 ## Embedded Systems Developer - Research and development specialist
 
 - CPU Design Researcher : RISC-V ISA (Verilog/TL-Verilog) and GNU Compiler Toolchain
@@ -12,8 +12,6 @@
 - C/C++ & Python Programming 
 - Familiar with Web Developing (HTML/CSS/JS) and Server Side Scripting (Node.JS)
 - MATLAB & Simulink (Linear control systems, signal processing, MCU connection and serial transfer and ...)
-- Contcat me :
 - > email :: arvin7807@gmail.com
-- > Instagram :: @arvin_delavari
 - > LinkedIn :: www.linkedin.com/in/arvin-delavari
 - > Telegram :: @arvin_delavari
