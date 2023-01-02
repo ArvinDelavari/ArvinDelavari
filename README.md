@@ -1,15 +1,20 @@
-- @ArvinDelavari
-- Electrical Engineering student at Iran University of Science and Technology
-- Electronics and Embedded Systems Developer
-- CPU Design and Computer Architecture researcher : RISC-V ISA 
-- MCU/MPU Programming : ARM Cortex -M (STM32) | Arduino | AVR
-- PCB Designing and Embedded Hardware (Altium Designer)
-- Web Development : HTML/CSS/JS + Server Side Scripting (Node.JS)
-- Embedded Linux
-- C/C++/MATLAB/Python
+## Arvin Delavari
+
+- Electrical Engineering-Electronics BSc Student at IUST
+- Allameh Helli Highschool of Tehran graduated
+- Embedded Systems Developer - Research and development specialist
+
+- CPU Design Researcher : RISC-V ISA (Verilog/TL-Verilog) and GNU Compiler Toolchain
+- Embedded Software Development (Embedded C/C++ - Embedded Linux)
+- ARM Cortex-M Programming (STM32/NXP : CubeIDE/CubeMX/Keil/IAR/MBED-OS)
+- PCB Designing using Altium Designer : Professional PCB Designing (Digital/Analog/High-Frequency/Multi-Layer)
+- Arduino and ESP32/ESP8266 Programming 
+- IOT Development : MQTT/HTTP
+- C/C++ & Python Programming 
+- Familiar with Web Developing (HTML/CSS/JS) and Server Side Scripting (Node.JS)
+- MATLAB & Simulink (Linear control systems, signal processing, MCU connection and serial transfer and ...)
 - Contcat me :
-              > email :: arvin7807@gmail.com
-              > Instagram :: @arvin_delavari
-              > LinkedIn :: www.linkedin.com/in/arvin-delavari
-              > Telegram :: @arvin_delavari
-              > Phone :: +98 9383441141
+- > email :: arvin7807@gmail.com
+- > Instagram :: @arvin_delavari
+- > LinkedIn :: www.linkedin.com/in/arvin-delavari
+- > Telegram :: @arvin_delavari
