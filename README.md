@@ -12,6 +12,6 @@
 - C/C++ & Python Programming 
 - Familiar with Web Developing (HTML/CSS/JS) and Server Side Scripting (Node.JS)
 - MATLAB & Simulink (Linear control systems, signal processing, MCU connection and serial transfer and ...)
-- > email :: arvin7807@gmail.com
-- > LinkedIn :: www.linkedin.com/in/arvin-delavari
-- > Telegram :: @arvin_delavari
+> email :: arvin7807@gmail.com
+> LinkedIn :: www.linkedin.com/in/arvin-delavari
+> Telegram :: @arvin_delavari
