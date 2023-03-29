@@ -3,10 +3,6 @@
 ### Allameh Helli Highschool of Tehran graduated
 ### Embedded Systems Developer - Research and development specialist
 
-• Electrical Engineering-Electronics BSc Student at IUST
-• Allameh Helli Highschool of Tehran graduated
-• Embedded Systems Developer - Research and development specialist
-
 - CPU Design Researcher : RISC-V ISA (Verilog HDL) RTL Design
 - RISCV CPU programming and simulation using GCC/GNU compiler toolchain and iverilog tool
 - Embedded Software Development (Embedded C/C++ - Embedded Linux - RTOS)
