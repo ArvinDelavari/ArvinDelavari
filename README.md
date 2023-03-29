@@ -1,7 +1,7 @@
 # Arvin Delavari
-## Electrical Engineering-Electronics BSc Student at IUST
-## Allameh Helli Highschool of Tehran graduated
-## Embedded Systems Developer - Research and development specialist
+### Electrical Engineering-Electronics BSc Student at IUST
+### Allameh Helli Highschool of Tehran graduated
+### Embedded Systems Developer - Research and development specialist
 
 • Electrical Engineering-Electronics BSc Student at IUST
 • Allameh Helli Highschool of Tehran graduated
