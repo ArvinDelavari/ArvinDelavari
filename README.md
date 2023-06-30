@@ -3,7 +3,7 @@
 ### Allameh Helli Highschool of Tehran graduated
 ### Embedded Systems Developer - Research and development specialist
 
-- CPU Design and Computer Organization Researcher : RISC-V ISA (Verilog HDL) RTL Design
+- CPU RTL Design and Computer Organization Researcher: RISC-V ISA 
 - RISCV CPU programming and simulation using GCC/GNU compiler toolchain and iverilog tool
 - Embedded Software Development (Embedded C/C++ - Embedded Linux - RTOS)
 - ARM Cortex-M Programming (STM32/NXP microcontrollers) using CubeIDE/CubeMX/Keil/IAR
