@@ -1,7 +1,8 @@
-# Arvin Delavari
-### Electrical Engineering-Electronics BSc Student at IUST
-### Allameh Helli Highschool of Tehran graduated
-### Embedded Systems  and Computer Architecture Researcher
+Arvin Delavari
+======================================
+#### Electrical Engineering, Electronics BSc Student at IUST
+#### Allameh Helli Highschool of Tehran graduated
+#### Embedded Systems  and Computer Architecture Researcher
 
 - Digital Design and Computer Architecture Researcher
 - RISC-V ISA based processor RTL Design with Verilog HDL
