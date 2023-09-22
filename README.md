@@ -9,14 +9,6 @@ Arvin Delavari
 - Embedded Software Development
 - ARM Cortex-M Programming (STM32 microcontrollers)
 - Professional PCB Designing using Altium Designer
-
-<div align="center">
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArvinDelavari&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinDelavari&layout=compact&theme=dracula&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
-
   
 > email address    : arvin7807@gmail.com
 
