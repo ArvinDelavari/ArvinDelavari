@@ -12,8 +12,7 @@ Arvin Delavari
 
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinDelavari&layout=compact&theme=radical&langs_count=10)
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinDelavari&layout=compact&theme=radical&langs_count=10)]
 </div>
 
 > email address    : arvin7807@gmail.com
