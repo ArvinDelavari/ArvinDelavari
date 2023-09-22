@@ -11,7 +11,9 @@ Arvin Delavari
 - Professional PCB Designing using Altium Designer
 
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinDelavari&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinDelavari&layout=compact&theme=radical&langs_count=10)(https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 > email address    : arvin7807@gmail.com
