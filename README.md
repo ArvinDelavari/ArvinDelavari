@@ -13,7 +13,9 @@ Arvin Delavari
 <div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinDelavari&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-  
+
+</div>
+
 > email address    : arvin7807@gmail.com
 
 > LinkedIn account : www.linkedin.com/in/arvin-delavari
