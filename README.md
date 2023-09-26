@@ -12,7 +12,7 @@ Arvin Delavari
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ArvinDelavari&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinDelavari&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinDelavari&layout=compact&theme=highcontrast&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 > email address    : arvin7807@gmail.com
 
