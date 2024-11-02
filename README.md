@@ -11,8 +11,6 @@ Arvin Delavari
 - Energy-Efficient and High-Performance Embedded System Design with RISC-V ISA
 - Interested in VLSI, FPGAs, Reconfigurable Architectures and Low-Power Design
 - Embedded Software Programming and Development (Embedded C/C++, RTOS, Linux, etc.)
-- Experienced in ARM Cortex-M (STM32) Microcontrollers Programming
-- Professional Multi-Layer and Mixed Signal PCB and Electronic HW Design
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinDelavari&layout=compact&theme=highcontrast&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
 
