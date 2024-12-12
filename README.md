@@ -4,12 +4,10 @@ Arvin Delavari
 #### About Me:
 - Electrical Engineering, Electronics B.Sc. Student at Iran University of Science and Technology
 - Research Assistant at IUST Electronic Research Center - Digital Integrated Circuit Design Research Lab
-- Teaching Assistant in Computer Organization Course at IUST, Feb. 2022 - Present
 
 #### Research Field and Interests:
-- Embedded Systems, Digital Design, Computer Architecture and High-Performance Computing
-- Energy-Efficient and High-Performance Embedded System Design with RISC-V ISA
-- Interested in VLSI, FPGAs, Reconfigurable Architectures and Low-Power Design
+- Embedded Systems, Computer Architecture, and High-Performance Computing
+- Interested in VLSI, FPGAs, RISC-V, Reconfigurable Architectures, and Multi-Core Systems
 - Embedded Software Programming and Development (Embedded C/C++, RTOS, Linux, etc.)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinDelavari&layout=compact&theme=highcontrast&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
