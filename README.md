@@ -10,8 +10,6 @@ Arvin Delavari
 - Interested in VLSI, FPGAs, RISC-V, Reconfigurable Architectures, and Multi-Core Systems
 - Embedded Software Programming and Development (Embedded C/C++, RTOS, Linux, etc.)
 
-[//]: <> ([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinDelavari&layout=compact&theme=highcontrast&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats))
-
 #### Connect with me:
 
 📫 Email address: arvin_delavari@elec.iust.ac.ir, arvin.delavari13@gmail.com
